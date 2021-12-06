@@ -1,4 +1,4 @@
-﻿# Project Title
+# Project Title
 ![language](https://img.shields.io/badge/python-v2.7-brightgreen) ![tech](https://img.shields.io/badge/django-v1.11.6-brightgreen) ![type](https://img.shields.io/badge/type-webapp-blue) ![stability](https://img.shields.io/badge/stablility-deprecated-yellow)
 
 One Paragraph of project description goes here
